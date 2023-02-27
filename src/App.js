@@ -1,3 +1,5 @@
+import { Component } from 'react';
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -21,5 +23,19 @@ function App() {
     </div>
   );
 }
+
+// class App extends Component {
+//   constructor(props) {
+//     super(props);
+//   }
+
+
+//   render() {
+
+//     return(
+
+//     );
+//   }
+// }
 
 export default App;
